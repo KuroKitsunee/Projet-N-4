@@ -1,0 +1,22 @@
+.section-welcome {
+    text-align: left;
+    .container {
+
+        .welcome-img {
+            width: 157.8%;
+            height: auto;
+        }
+        h2 {
+            text-transform: uppercase;
+            font-family: 'Bebas Neue', cursive;
+            letter-spacing: 5px;
+            padding-top: 10%;
+        }
+        
+        p {
+            font-family: 'Roboto', sans-serif;
+            font-weight: 400;
+            font-size: small;
+        }
+    }
+}

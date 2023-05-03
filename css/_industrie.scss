@@ -1,0 +1,31 @@
+.section-industries {
+    text-align: center;
+    padding-top: 4%;
+    padding-bottom: 4%;
+
+    .container {
+
+        h2 {
+            text-transform: uppercase;
+            padding-top: 4%;
+            padding-bottom: 3%;
+            font-family: 'Bebas Neue', cursive;
+            letter-spacing: 5px;
+        }
+
+        h4 {
+            padding-top: 3%;
+            font-family: 'Bebas Neue', cursive;
+        }
+
+        p {
+            font-family: 'Roboto', sans-serif;
+            font-weight: 300;
+            font-size: small;
+        }
+        .indus-logo{
+        max-width: 30%;
+        height: auto;
+        }
+    }
+}

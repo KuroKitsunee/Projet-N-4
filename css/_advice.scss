@@ -1,0 +1,30 @@
+.section-advice {
+    text-align: center;
+    background-image: url(../Media/advice-2.jpg);
+    background-size: cover;
+    background-position: center;
+    height: auto;
+    padding-top: 2%;
+    padding-bottom: 4%;
+
+        h2 {
+            text-transform: uppercase;
+            font-family: 'Bebas Neue', cursive;
+            letter-spacing: 5px;
+            padding-top: 5%;
+            padding-bottom: 3%;
+        }
+
+        h4 {
+            color: white;
+            font-family: 'Roboto', sans-serif;
+            font-weight: 900;
+            font-size: 3em;
+        }
+        .title-advice ,p {
+            text-align: center;
+            color: white;
+            font-family: 'Roboto', sans-serif;
+            font-weight: 400;
+        }
+}

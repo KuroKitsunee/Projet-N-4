@@ -1,0 +1,51 @@
+/*@media screen and (min-width: 900px) {
+    .accueil {
+    height: 90vh;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .accueil {
+    height: 90vh;
+    }
+}
+*/
+
+h1 {
+    padding-bottom: 5%;
+}
+
+.btn {
+    display: flex;
+    margin-bottom: 25%;
+    text-decoration: none;
+    transition: background-color 1s, color 1s, border 1s;
+    background-color: rgb(226, 173, 27);
+    color: black;
+}
+
+.top{
+    background-color: gray;
+    padding-top: 1%;
+    .container {
+        h2 {
+            font-family: 'Bebas Neue', cursive;
+            color: rgb(226, 173, 27);
+        }
+        a {
+            font-family: 'Roboto', sans-serif;
+            color: white;
+        }
+    }
+}
+
+.tete {
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.fa-regular {
+    float: left;
+    margin-top: 1%;
+    margin-right: 2%;
+    color: rgb(226, 173, 27);
+}

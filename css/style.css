@@ -1,0 +1,176 @@
+.section-advice {
+  text-align: center;
+  background-image: url(../Media/advice-2.jpg);
+  background-size: cover;
+  background-position: center;
+  height: auto;
+  padding-top: 2%;
+  padding-bottom: 4%;
+}
+.section-advice h2 {
+  text-transform: uppercase;
+  font-family: "Bebas Neue", cursive;
+  letter-spacing: 5px;
+  padding-top: 5%;
+  padding-bottom: 3%;
+}
+.section-advice h4 {
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-size: 3em;
+}
+.section-advice .title-advice, .section-advice p {
+  text-align: center;
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+}
+
+.client {
+  width: 60%;
+}
+
+.client-png {
+  width: 60%;
+}
+
+.section-commentaire {
+  text-align: center;
+}
+
+.stars {
+  width: 50%;
+  padding-top: 1%;
+  padding-bottom: 3%;
+}
+
+.commentaire h4, p {
+  text-align: left;
+}
+
+h2 {
+  padding-bottom: 4%;
+}
+
+.nom {
+  text-align: center;
+}
+
+/*@media screen and (min-width: 900px) {
+    .accueil {
+    height: 90vh;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .accueil {
+    height: 90vh;
+    }
+}
+*/
+h1 {
+  padding-bottom: 5%;
+}
+
+.btn {
+  display: flex;
+  margin-bottom: 25%;
+  text-decoration: none;
+  transition: background-color 1s, color 1s, border 1s;
+  background-color: rgb(226, 173, 27);
+  color: black;
+}
+
+.top {
+  background-color: gray;
+  padding-top: 1%;
+}
+.top .container h2 {
+  font-family: "Bebas Neue", cursive;
+  color: rgb(226, 173, 27);
+}
+.top .container a {
+  font-family: "Roboto", sans-serif;
+  color: white;
+}
+
+.tete {
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
+.fa-regular {
+  float: left;
+  margin-top: 1%;
+  margin-right: 2%;
+  color: rgb(226, 173, 27);
+}
+
+.section-industries {
+  text-align: center;
+  padding-top: 4%;
+  padding-bottom: 4%;
+}
+.section-industries .container h2 {
+  text-transform: uppercase;
+  padding-top: 4%;
+  padding-bottom: 3%;
+  font-family: "Bebas Neue", cursive;
+  letter-spacing: 5px;
+}
+.section-industries .container h4 {
+  padding-top: 3%;
+  font-family: "Bebas Neue", cursive;
+}
+.section-industries .container p {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: small;
+}
+.section-industries .container .indus-logo {
+  max-width: 30%;
+  height: auto;
+}
+
+.section-logo {
+  text-align: center;
+  padding-top: 4%;
+  padding-bottom: 6%;
+}
+.section-logo .logo .logo-img {
+  max-width: 40%;
+  height: auto;
+}
+
+.section-team {
+  text-align: center;
+  padding-top: 4%;
+}
+.section-team .container h2 {
+  text-transform: uppercase;
+  padding-bottom: 3%;
+}
+.section-team .container .profil {
+  max-width: 40%;
+  height: auto;
+}
+
+.section-welcome {
+  text-align: left;
+}
+.section-welcome .container .welcome-img {
+  width: 157.8%;
+  height: auto;
+}
+.section-welcome .container h2 {
+  text-transform: uppercase;
+  font-family: "Bebas Neue", cursive;
+  letter-spacing: 5px;
+  padding-top: 10%;
+}
+.section-welcome .container p {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: small;
+}/*# sourceMappingURL=style.css.map */
